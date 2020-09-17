@@ -7,7 +7,7 @@
   <groupId>io.cdap.plugin</groupId>
   <artifactId>github-plugin</artifactId>
   <name>GitHub plugin</name>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <description>A collection of gitHub connectors and plugins</description>
   <url>https://github.com/data-integrations/github</url>
 
